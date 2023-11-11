@@ -13,9 +13,7 @@ canvas {
     z-index: -1;
 }
 
-.sound {
-    display: none;
-}
+
 
 p.madeby {
     margin-top: 40em;
