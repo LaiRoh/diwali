@@ -122,3 +122,5 @@ function Run() {
   }
   requestAnimationFrame(Run);
 }
+
+ property.style.animation=delay 1s
