@@ -28,7 +28,6 @@ function newShell() {
   shell.size = Math.random() * 6 + 3;
   shell.color = colors[Math.floor(Math.random() * colors.length)];
 
- property.style.animation=delay 1s
   shells.push(shell);
 }
 function newShell() {
